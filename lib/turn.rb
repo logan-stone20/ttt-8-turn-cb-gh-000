@@ -43,4 +43,5 @@ def turn(board)
       number = input_to_index(number)
     end
   end
+  display_board(board)
 end
