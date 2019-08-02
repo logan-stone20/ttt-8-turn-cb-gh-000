@@ -42,4 +42,5 @@ def turn(board)
       number = gets.strip
       number = input_to_index(number)
     end
+  end
 end
